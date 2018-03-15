@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "responsiveinventory",
+    "name": "Responsive Inventory",
+    "description": "Makes the inventory responsive",
+    "url": "https://minecraft.curseforge.com/projects/responsive-inventory",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "authorList": [
+      "JamiesWhiteShirt"
+    ],
+    "credits": "",
+    "logoFile": "assets/responsiveinventory/logo.png",
+    "requiredMods": []
+  }
+]

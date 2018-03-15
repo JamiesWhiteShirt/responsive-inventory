@@ -1,0 +1,233 @@
+{
+  "material.solid.handle": {
+    "category": "master",
+    "sounds": [
+      "dig/stone1",
+      "dig/stone2",
+      "dig/stone3",
+      "dig/stone4"
+    ]
+  },
+  "material.metallic.handle": {
+    "category": "master",
+    "sounds": [
+      "dig/stone1",
+      "dig/stone2",
+      "dig/stone3",
+      "dig/stone4"
+    ]
+  },
+  "material.coarse.handle": {
+    "category": "master",
+    "sounds": [
+      "dig/gravel1",
+      "dig/gravel2",
+      "dig/gravel3",
+      "dig/gravel4"
+    ]
+  },
+  "material.wooden.handle": {
+    "category": "master",
+    "sounds": [
+      "dig/wood1",
+      "dig/wood2",
+      "dig/wood3",
+      "dig/wood4"
+    ]
+  },
+  "material.plant.handle": {
+    "category": "master",
+    "sounds": [
+      "dig/grass1",
+      "dig/grass2",
+      "dig/grass3",
+      "dig/grass4"
+    ]
+  },
+  "material.fine.handle": {
+    "category": "master",
+    "sounds": [
+      "dig/sand1",
+      "dig/sand2",
+      "dig/sand3",
+      "dig/sand4"
+    ]
+  },
+  "material.fragile.handle": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "random/glass1",
+        "volume": 0.5
+      },
+      {
+        "name": "random/glass2",
+        "volume": 0.5
+      },
+      {
+        "name": "random/glass3",
+        "volume": 0.5
+      }
+    ]
+  },
+  "material.soft.handle": {
+    "category": "master",
+    "sounds": [
+      "dig/cloth1",
+      "dig/cloth2",
+      "dig/cloth3",
+      "dig/cloth4"
+    ]
+  },
+  "material.snowy.handle": {
+    "category": "master",
+    "sounds": [
+      "dig/snow1",
+      "dig/snow2",
+      "dig/snow3",
+      "dig/snow4"
+    ]
+  },
+  "material.heavy_metallic.handle": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "random/anvil_land",
+        "volume": 0.1
+      }
+    ]
+  },
+  "material.sticky.handle": {
+    "category": "master",
+    "sounds": [
+      "mob/slime/small1",
+      "mob/slime/small2",
+      "mob/slime/small3",
+      "mob/slime/small4",
+      "mob/slime/small5"
+    ]
+  },
+  "material.wood_equipment.handle": {
+    "category": "master",
+    "sounds": [
+      "item/armor/equip_generic1",
+      "item/armor/equip_generic2",
+      "item/armor/equip_generic3",
+      "item/armor/equip_generic4",
+      "item/armor/equip_generic5",
+      "item/armor/equip_generic6"
+    ]
+  },
+  "material.stone_equipment.handle": {
+    "category": "master",
+    "sounds": [
+      "item/armor/equip_generic1",
+      "item/armor/equip_generic2",
+      "item/armor/equip_generic3",
+      "item/armor/equip_generic4",
+      "item/armor/equip_generic5",
+      "item/armor/equip_generic6"
+    ]
+  },
+  "material.iron_equipment.handle": {
+    "category": "master",
+    "sounds": [
+      "item/armor/equip_iron1",
+      "item/armor/equip_iron2",
+      "item/armor/equip_iron3",
+      "item/armor/equip_iron4",
+      "item/armor/equip_iron5",
+      "item/armor/equip_iron6"
+    ]
+  },
+  "material.diamond_equipment.handle": {
+    "category": "master",
+    "sounds": [
+      "item/armor/equip_diamond1",
+      "item/armor/equip_diamond2",
+      "item/armor/equip_diamond3",
+      "item/armor/equip_diamond4",
+      "item/armor/equip_diamond5",
+      "item/armor/equip_diamond6"
+    ]
+  },
+  "material.gold_equipment.handle": {
+    "category": "master",
+    "sounds": [
+      "item/armor/equip_gold1",
+      "item/armor/equip_gold2",
+      "item/armor/equip_gold3",
+      "item/armor/equip_gold4",
+      "item/armor/equip_gold5",
+      "item/armor/equip_gold6"
+    ]
+  },
+  "material.leather_equipment.handle": {
+    "category": "master",
+    "sounds": [
+      "item/armor/equip_leather1",
+      "item/armor/equip_leather2",
+      "item/armor/equip_leather3",
+      "item/armor/equip_leather4",
+      "item/armor/equip_leather5",
+      "item/armor/equip_leather6"
+    ]
+  },
+  "material.chain_equipment.handle": {
+    "category": "master",
+    "sounds": [
+      "item/armor/equip_chain1",
+      "item/armor/equip_chain2",
+      "item/armor/equip_chain3",
+      "item/armor/equip_chain4",
+      "item/armor/equip_chain5",
+      "item/armor/equip_chain6"
+    ]
+  },
+  "material.equipment.handle": {
+    "category": "master",
+    "sounds": [
+      "item/armor/equip_generic1",
+      "item/armor/equip_generic2",
+      "item/armor/equip_generic3",
+      "item/armor/equip_generic4",
+      "item/armor/equip_generic5",
+      "item/armor/equip_generic6"
+    ]
+  },
+  "material.generic.handle": {
+    "category": "master",
+    "sounds": [
+      "entity/itemframe/rotate_item1",
+      "entity/itemframe/rotate_item2",
+      "entity/itemframe/rotate_item3",
+      "entity/itemframe/rotate_item4"
+    ]
+  },
+  "material.light.handle": {
+    "category": "master",
+    "sounds": [
+      "entity/itemframe/rotate_item1",
+      "entity/itemframe/rotate_item2",
+      "entity/itemframe/rotate_item3",
+      "entity/itemframe/rotate_item4"
+    ]
+  },
+  "material.liquid.handle": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "item/bucket/fill1",
+        "volume": 0.5
+      },
+      {
+        "name": "item/bucket/fill2",
+        "volume": 0.5
+      },
+      {
+        "name": "item/bucket/fill3",
+        "volume": 0.5
+      }
+    ]
+  }
+}
